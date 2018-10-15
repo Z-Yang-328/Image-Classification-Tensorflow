@@ -1,4 +1,12 @@
-### Image Cassification
+### About the data set
+
+#### Image Classification
+In this project, I classify images from the CIFAR-10 dataset(https://www.cs.toronto.edu/~kriz/cifar.html).  The dataset consists of airplanes, dogs, cats, and other objects.
+
+####Get the Data
+Run the following cell to download the CIFAR-10 dataset for python(https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz).
+
+### The python files
 
 In order to keep the size of this repository as small as possible, the data/images used in this project will be downloaded in the code.
 
@@ -11,10 +19,10 @@ In order to keep the size of this repository as small as possible, the data/imag
 * image_classification.ipynb   ---- Jupyter notebook version, a better version to showcase the results
 
 
-### The Classification Results
+### The classification results
 
-##### Here is the traning accuracy
+#### Here is the traning accuracy
 ![Training Accuracy](Results/training_acc.jpg?raw=true "Title")
 
-##### And here is the predictions made by the classifier
+#### And here is the predictions made by the classifier
 ![Predictions](Results/predicting.png?raw=true "Title")
