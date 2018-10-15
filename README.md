@@ -3,7 +3,7 @@
 #### Image Classification
 In this project, I classify images from the CIFAR-10 dataset(https://www.cs.toronto.edu/~kriz/cifar.html).  The dataset consists of airplanes, dogs, cats, and other objects.
 
-####Get the Data
+#### Get the Data
 Run the following cell to download the CIFAR-10 dataset for python(https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz).
 
 ### The python files
